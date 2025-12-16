@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251216_205724", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251216_205724/request_001.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/M1pYSjBlV2hxYm5Oa0lHMHNMbU1nYW/Y21GdVpHOXRJR0oxYkd4emFHbDBJR2R2?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&ge3F6uCFVIZiI=esportiva", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251216_205724/response_001.txt", 
+      "timestamp": 1765929439655
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251216_205724/request_002.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/Widget/GetWidgetsConfiguration?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&theme=light", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251216_205724/response_002.txt", 
+      "timestamp": 1765929439666
+    }
+  ], 
+  "host": "sb2integration-altenar2.biahosted.com", 
+  "total_requests": 2
+}
