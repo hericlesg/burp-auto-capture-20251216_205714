@@ -1,0 +1,55 @@
+{
+  "capture_timestamp": "20251216_210206", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_001.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_001.txt", 
+      "timestamp": 1765929518718
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_002.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_002.txt", 
+      "timestamp": 1765929529794
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_003.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_003.txt", 
+      "timestamp": 1765929576627
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_004.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_004.txt", 
+      "timestamp": 1765929590265
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_005.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_005.txt", 
+      "timestamp": 1765929636883
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/request_006.txt", 
+      "url": "https://mozilla-ohttp.fastly-edge.com:443/", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/mozilla-ohttp.fastly-edge.com_20251216_210206/response_006.txt", 
+      "timestamp": 1765929649601
+    }
+  ], 
+  "host": "mozilla-ohttp.fastly-edge.com", 
+  "total_requests": 6
+}
